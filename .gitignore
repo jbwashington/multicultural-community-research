@@ -60,3 +60,9 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+#c9 config files
+.c9/
+
+#local config variables
+env/local.js
