@@ -8,6 +8,18 @@ This is a repository for us to keep up with qualitative and quantitative data fo
 - Interviews with people
 - Data that we got from aforementioned interviews
 - data visualization
+Spreadsheet
+- Mileage Log
+Contacts
+Qualtrics Raw Data Dump
+
+
 
 ###  TODO
-- All of the work mentioned above
+- Add link within spreadsheet
+- Enter in mileage allocated thus far
+- Account for detour with Soldier on Service Dogs
+- Incorporate complete dataset into coding
+
+
+
